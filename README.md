@@ -1,2 +1,2 @@
 # Cpp-games
-Games made in C++
+Cringe games made in C++ by cringerg
