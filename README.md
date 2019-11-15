@@ -1,4 +1,4 @@
-# Cpp-games
+# c++-games
 Cringe games made in C++ by cringerg
 
 CONTENTS:
