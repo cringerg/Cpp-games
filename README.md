@@ -3,7 +3,7 @@ Cringe games made in C++ by cringerg
 
 CONTENTS:
 
-poop game - a game about eating poop
+poop game - a game about running away from poop
 
 pong - shitty pong clone in console window
 
